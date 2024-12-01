@@ -1,0 +1,5 @@
+JAVASCRIPT:
+
+JAVASCRIPT is a lightweight, interpreted programing language, initially written to make web pages live.programs written in js is called script. that's way it is also called scripting language. js enables developers to create interactive and dynamic application for web.
+JS has only the name commmon with Java language, otherwise they both are totally different language.
+today modern js not only run in browser, but also on servers and even in any device having java virtual machine (JVM). like for chrome "V8", for  safari spidermonkey, chakra for IE etc.
